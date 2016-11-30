@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SGSI.Library", "SGSI.Library", "{95C6BEED-783F-465B-95A7-8D7E5F713094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGSI", "SGSI\SGSI.csproj", "{B3471E84-7DE1-4FEE-B589-B3F7E8AA854B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGSI.Data", "SGSI.Data\SGSI.Data.csproj", "{03068D27-3CF1-41F7-9C10-47F9D86CA485}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SGSI.Web", "SGSI.Web", "{9C68EAE0-610D-4341-913B-A3CA8B541C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGSI.Web", "SGSI.Web\SGSI.Web.csproj", "{A3DB8F1B-D0DB-4205-91EB-5AE6C8EE8B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3471E84-7DE1-4FEE-B589-B3F7E8AA854B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3471E84-7DE1-4FEE-B589-B3F7E8AA854B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3471E84-7DE1-4FEE-B589-B3F7E8AA854B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3471E84-7DE1-4FEE-B589-B3F7E8AA854B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03068D27-3CF1-41F7-9C10-47F9D86CA485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03068D27-3CF1-41F7-9C10-47F9D86CA485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03068D27-3CF1-41F7-9C10-47F9D86CA485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03068D27-3CF1-41F7-9C10-47F9D86CA485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DB8F1B-D0DB-4205-91EB-5AE6C8EE8B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DB8F1B-D0DB-4205-91EB-5AE6C8EE8B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DB8F1B-D0DB-4205-91EB-5AE6C8EE8B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DB8F1B-D0DB-4205-91EB-5AE6C8EE8B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3471E84-7DE1-4FEE-B589-B3F7E8AA854B} = {95C6BEED-783F-465B-95A7-8D7E5F713094}
+		{03068D27-3CF1-41F7-9C10-47F9D86CA485} = {95C6BEED-783F-465B-95A7-8D7E5F713094}
+		{A3DB8F1B-D0DB-4205-91EB-5AE6C8EE8B88} = {9C68EAE0-610D-4341-913B-A3CA8B541C82}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.Interception.2.1.505.0\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Data.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Caching.5.0.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal

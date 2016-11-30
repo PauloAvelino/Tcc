@@ -1,0 +1,80 @@
+﻿div#Viewport1-innerCt.x-box-inner {
+    background-image: url(../Imagens/Security.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+div#FormPanel1_header.x-panel-header.x-header.x-docked.x-unselectable.x-panel-header-default-framed.x-horizontal.x-panel-header-horizontal.x-panel-header-default-framed-horizontal.x-top.x-panel-header-top.x-panel-header-default-framed-top.x-box-layout-ct {
+    border-color: black;
+}
+
+a#ctl05.x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-small.x-btn-over.x-btn-pressed{
+    background-color:#24a924;
+    border-bottom-color: green;
+    border-color: black;
+}
+
+a#ctl05.x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-small.x-btn-over{
+    background-color:#0094ff;
+    border-bottom-color: green;
+    border-color: black;
+}
+a#ctl05.x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-small {
+    left: 130px !important;
+    background-color:black;
+    font-size:larger;
+    background-size: cover;
+    border-color: black;
+}
+.x-btn-inner-default-small{
+    font-size:14px;
+    font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;
+
+}
+
+.x-form-item-label-default {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+.x-panel-body-default-framed {
+    background-color: transparent;
+}
+
+.x-panel-default-framed {
+    border-color: black;
+}
+
+#TabPanel1 {
+    background-image: url('../Imagens/background.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.x-title-text {
+    font-size: x-large;
+}
+
+.x-panel-header {
+    background-image: url('../Imagens/background.jpg');
+    background-color: transparent;
+    font-style: italic;
+    font-size: 50px;
+    font-variant-caps: petite-caps;
+    font-size: large;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.x-tab-bar {
+    background-color: transparent;
+    font-style: italic;
+}

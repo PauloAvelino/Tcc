@@ -1,0 +1,170 @@
+﻿div#Viewport1-innerCt.x-box-inner {
+    background-image: url(../Imagens/Security.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+div#FormPanel1_header.x-panel-header.x-header.x-docked.x-unselectable.x-panel-header-default-framed.x-horizontal.x-panel-header-horizontal.x-panel-header-default-framed-horizontal.x-top.x-panel-header-top.x-panel-header-default-framed-top.x-box-layout-ct {
+    border-color: black;
+}
+
+a#ctl05.x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-small.x-btn-over.x-btn-pressed {
+    background-color: #24a924;
+    border-bottom-color: green;
+    border-color: black;
+}
+.x-window-header.x-header.x-header-draggable.x-docked.x-unselectable.x-window-header-default.x-horizontal.x-window-header-horizontal.x-window-header-default-horizontal.x-top.x-window-header-top.x-window-header-default-top.x-box-layout-ct {
+    background-image: url('../Imagens/background-SEMLOGO.jpg');
+}
+.x-grid-with-row-lines.x-grid-item{
+
+     background-color:rgb(232,201,0);
+}
+.x-panel-header-default {
+    background-color: gray;
+}
+
+a#ctl05.x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-small.x-btn-over {
+    background-color: #0094ff;
+    border-bottom-color: green;
+    border-color: black;
+}
+
+/*div#tabbar-1009-body.x-tab-bar-body.x-tab-bar-body-default  x-box-layout-ct{
+    background-color:red;
+
+}*/
+a#ctl05.x-btn.x-unselectable.x-box-item.x-toolbar-item.x-btn-default-small {
+    left: 130px !important;
+    background-color: black;
+    font-size: larger;
+    background-size: cover;
+    border-color: black;
+}
+
+.x-btn-inner-default-small {
+    font-size: 14px;
+    font-family: 'Century Gothic', Geneva, 'DejaVu Sans', sans-serif;
+    color: aqua;
+}
+
+#TabPanel1.x-panel-header-default-horizontal.x-header-noborder {
+    padding: 12px 16px 30px 16px;
+}
+
+.x-panel-header.x-header.x-header-noborder.x-docked.x-unselectable.x-panel-header-default.x-horizontal.x-panel-header-horizontal.x-panel-header-default-horizontal.x-top.x-panel-header-top.x-panel-header-default-top.x-docked-top.x-panel-header-docked-top.x-panel-header-default-docked-top.x-box-layout-ct.x-noborder-trl {
+    background-color: transparent;
+}
+
+.x-form-item-label-default {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+.x-panel-body-default-framed {
+    background-color: transparent;
+}
+
+.x-panel-default-framed {
+    border-color: black;
+}
+
+x-window.x-layer.x-window-default.x-border-box.x-resizable.x-window-resizable.x-window-default-resizable {
+    background-image: url('../Imagens/background.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.x-window-header-title-default.x-title-text-default {
+    font-family: 'Century Gothic';
+    font-size: medium;
+    font-size: large;
+    color: rgb(232,201,0);
+}
+
+.x-window-header-title-default > .x-title-text-default {
+    color: rgb(232,201,0);
+}
+
+.x-btn-over.x-btn-default-toolbar-small{
+
+    background-color:rgb(232,201,0);
+}
+.x-window-header.x-header.x-header-draggable.x-docked.x-unselectable.x-window-header-default.x-horizontal.x-window-header-horizontal.x-window-header-default-horizontal.x-top.x-window-header-top.x-window-header-default-top.x-box-layout-ct {
+    background-image: url('../Imagens/background.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 20px 20px 20px 20px;
+    font-family: 'Century Gothic';
+    font-variant-caps: petite-caps;
+    font-size: large;
+    color: rgb(232,201,0);
+}
+
+.x-tab.x-tab-active.x-tab-default {
+    background-color: rgb(232,201,0);
+    border: solid;
+    border-color: rgb(232,201,0);
+}
+
+div#GridHistoricoProcedimentos_header.x-panel-header {
+    background-image: url('../Imagens/background-SEMLOGO.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#TabPanel1 {
+    background-image: url('../Imagens/background.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+a#Button1.x-btn-default-toolbar-small {
+    background-color: rgb(232,201,0);
+    font-style: oblique;
+}
+
+div#TabPanel1_header-title-textEl.x-title-text.x-title-text-default.x-title-item {
+    font-size: 15px;
+}
+
+.x-title-text {
+    font-size: 25px;
+}
+
+.x-panel-header-title-default > .x-title-text-default {
+    color: rgb(232,201,0);
+}
+
+.x-panel-header {
+    background-color: #0094ff;
+    font-size: 80px;
+    font-family: 'Century Gothic';
+    font-variant-caps: petite-caps;
+    font-size: large;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.x-tab-bar {
+    background-color: transparent;
+    font-style: italic;
+}
+
+div#form-1030-outerCt {
+    position: center;
+}
